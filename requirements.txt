@@ -2,3 +2,4 @@ numpy
 ipywidgets
 matplotlib
 shapely
+opencv
